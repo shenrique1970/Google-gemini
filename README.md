@@ -9,3 +9,4 @@
 - JAVASCRIPT.
 - GEMINI.
 
+### Resumo: Se trata de uma tela de pesquisa que escolhi o tema filmes e séries, onde tem alguns filmes e séries de exemplo que podem ser pesquisados.
