@@ -1,3 +1,4 @@
 # Tela de pesquisa.
 
-![gemini](https://github.com/user-attachments/assets/3b09cca5-44fd-4572-a981-e188aa6ddf69)
+![gemini](https://github.com/user-attachments/assets/522f9046-6fb8-44db-a8cb-fd13ca29bbd2)
+
