@@ -172,8 +172,6 @@ section button:hover {
   margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
-
-
 @media (max-width: 768px) {
   h1 {
     font-size: 2rem; /* Tamanho da fonte em telas menores */
