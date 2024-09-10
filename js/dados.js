@@ -30,7 +30,7 @@ let filmesESeries = [
         ano: 1985,
         sinopse: 'Um adolescente viaja no tempo para o passado em um DeLorean modificado e acidentalmente altera o futuro.',
         elenco: ['Michael J. Fox',  'Christopher Lloyd',  'Lea Thompson'],
-        tags: "comédia viagem tempo"
+        tags: "comédia comedia viagem tempo"
     }
 ];
 

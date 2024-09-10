@@ -22,6 +22,7 @@ function buscarFilme() {
     tags = i.tags.toLowerCase()
     // Constrói o HTML para cada resultado, formatando as informações do item
     if (titulo.includes(campoPesquisa) || genero.includes(campoPesquisa) || tags.includes(campoPesquisa)) {
+      resultados = ""
       resultados += `
         <div id="resultado" class="item-resultado">
           <h2>

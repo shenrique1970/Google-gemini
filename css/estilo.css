@@ -54,6 +54,7 @@ input[type="text"] {
   border-radius: 5px;
   width: 400px; /* Ajuste a largura conforme necessário */
 }
+
 button {
   padding: 10px 20px;
   background-color: #4caf50;
@@ -71,17 +72,18 @@ button {
 .section {
   margin-bottom: 20px;
 }
-
+/* Estiliza o rodapé da página */
 footer {
-  position: fixed;
-  bottom: 0;
+  background-color: #f5f7f8; /* Cor de fundo do rodapé */
+  color: #45474b; /* Cor do texto */
+  text-align: center; /* Alinha o texto ao centro */
+  padding: 0; /* Espaçamento interno */
+  width: 100%; /* Largura total da página */
+  position: absolute; /* Posiciona o rodapé */
   left: 0;
-  width: 100%;
-  background-color: #f0f0f0;
-  text-align: center;
-  padding: 10px;
+  bottom: 0; /* Alinha ao fundo da página */
+  font-size: 1rem; /* Tamanho da fonte */
 }
-
 
 /* Estiliza os títulos h1 */
 h1 {
@@ -170,17 +172,7 @@ section button:hover {
   margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
-/* Estiliza o rodapé da página */
-footer {
-  background-color: #f5f7f8; /* Cor de fundo do rodapé */
-  color: #45474b; /* Cor do texto */
-  text-align: center; /* Alinha o texto ao centro */
-  padding: 0; /* Espaçamento interno */
-  width: 100%; /* Largura total da página */
-  position: absolute; /* Posiciona o rodapé */
-  bottom: 0; /* Alinha ao fundo da página */
-  font-size: 1rem; /* Tamanho da fonte */
-}
+
 
 @media (max-width: 768px) {
   h1 {
