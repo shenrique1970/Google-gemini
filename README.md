@@ -2,6 +2,9 @@
 
 ![gemini](https://github.com/user-attachments/assets/522f9046-6fb8-44db-a8cb-fd13ca29bbd2)
 
+![gemini](https://github.com/user-attachments/assets/b2dff0e4-89ec-4ae8-821c-be2a5e8633b1)
+
+
 - Feito na Imersão Dev com Google Gemini
 
 ## O que faz essa aplicação?
